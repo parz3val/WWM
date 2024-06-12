@@ -1,0 +1,12 @@
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.csproj.AssemblyReference.cache
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.Properties.Resources.resources
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.csproj.GenerateResource.cache
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\WWM\WWM\bin\Debug\WWM.exe.config
+C:\Users\legion\source\repos\WWM\WWM\bin\Debug\WWM.exe
+C:\Users\legion\source\repos\WWM\WWM\bin\Debug\WWM.pdb
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.exe
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.pdb
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.Form1.resources
+C:\Users\legion\source\repos\WWM\WWM\bin\Debug\System.Management.Automation.dll
+C:\Users\legion\source\repos\WWM\WWM\obj\Debug\WWM.csproj.Up2Date
